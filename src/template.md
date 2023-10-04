@@ -1,19 +1,19 @@
 # NUMBER. TITLE
 
-Date: DATE
+Дата: DATE
 
-## Status
+## Статус
 
 STATUS
 
-## Context
+## Контекст
 
-The issue motivating this decision, and any context that influences or constrains the decision.
+Описание проблемы, решение которой описывается в данном ADR, и любого контекста, который влияет или ограничивает решение.
 
-## Decision
+## Решение
 
-The change that we're proposing or have agreed to implement.
+Изменения, которые мы предлагаем или согласились реализовать.
 
-## Consequences
+## Последствия
 
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+Какие момента и каким образом становится проще или сложнее и любые риски, связанные с изменениями, которые необходимо снизить.

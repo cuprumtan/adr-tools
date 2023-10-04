@@ -1,19 +1,19 @@
-# 1. Record architecture decisions
+# 1. Запись архитектурных решений
 
-Date: DATE
+Дата: DATE
 
-## Status
+## Статус
 
-Accepted
+Принято
 
-## Context
+## Конекст
 
-We need to record the architectural decisions made on this project.
+Нам необходимо фиксировать архитектурные решения, принятые по этому проекту.
 
-## Decision
+## Решение
 
-We will use Architecture Decision Records, as [described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+Мы будем использовать Записи Решений по Архитектуре (Architecture Decision Records, ADR) как [описано Майклом Найгардом](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 
-## Consequences
+## Последствия
 
-See Michael Nygard's article, linked above. For a lightweight ADR toolset, see Nat Pryce's [adr-tools](https://github.com/npryce/adr-tools).
+См. статью Майкла Найгарда, ссылка на которую приведена выше. Облегченный набор инструментов ADR см. в [adr-tools](https://github.com/npryce/adr-tools) Ната Прайса.
